@@ -1,0 +1,21 @@
+<template>
+  <div id="main-banner">
+    <h1>Make Your Burguer</h1>
+  </div>
+</template>
+
+<script>
+export default {
+  name: 'Banner',
+}
+</script>
+
+<style scoped>
+#main-banner{
+    background-color: aqua;
+    /* background-image: url('public\img\burger.jpg'); */
+}
+
+
+</style>
+>

@@ -2,6 +2,7 @@
   <div class="main-container">
     <Banner />
    <h1>Monte seu Burger:</h1>
+   <p>Formulário</p>
    <BurgerForm />
   </div>
 </template>

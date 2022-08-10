@@ -1,0 +1,17 @@
+<template>
+  <div class="main-container">
+    <Banner />
+   <h1>HOME</h1>
+   <p>Formulário</p>
+  </div>
+</template>
+
+<script>
+import Banner from "@/components/Banner.vue";
+
+export default{
+  name: "Home",
+  comp
+}
+
+</script>
