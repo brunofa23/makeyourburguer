@@ -104,7 +104,7 @@ data(){
 
       const res = await req.json()
 
-      this.msg = `Pedigo Nº ${res.id} realizado com sucesso`
+      this.msg = `Pedido Nº ${res.id} realizado com sucesso`
       
       //oculta a mensagem depois de 3s
       setTimeout(()=>this.msg="", 3000)
